@@ -1,0 +1,8 @@
+# Requirements file for Python dependencies
+# For this chess game, we don't have external dependencies
+# It's pure Python with only standard library usage
+
+# To install dependencies (if any were added in future):
+# pip install -r requirements.txt
+
+# For now, this is empty as the chess game uses only Python built-ins
